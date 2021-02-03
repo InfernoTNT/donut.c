@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<time.h>
-
+//pokrenuti gcc sa opcijom -lm
 
             k;double sin()
          ,cos();main(){float A=
